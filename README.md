@@ -8,4 +8,4 @@ Some notable highlights:
 - Variable Width Array Multiplier in Verilog and Integrated Circuit (13000 Leaf cells!!!)
 - 8-bit Ripple Carry Adder (RCA) in CMOS Layout
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/16oh4/FPGA-VLSI/master/array_multiplier.png)
