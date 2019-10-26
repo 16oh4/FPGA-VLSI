@@ -5,5 +5,5 @@ Assignments 1-4 describe designs at RTL and behavioral levels using Verilog for 
 Assignments 5- describe designs at CMOS level using Cadence Virtuoso.
 
 Some notable highlights:
-Variable Width Array Multiplier in Verilog and Integrated Circuit
-8-bit Ripple Carry Adder (RCA) in CMOS Layout
+- Variable Width Array Multiplier in Verilog and Integrated Circuit
+- 8-bit Ripple Carry Adder (RCA) in CMOS Layout
